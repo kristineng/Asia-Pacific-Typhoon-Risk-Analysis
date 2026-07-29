@@ -8,7 +8,7 @@ The project looks at where typhoons occur, how frequently they occur and how sto
 
 ### Where do typhoons occur most often?
 
-![image alt]([images/typhoon_heatmap.png](https://github.com/kristineng/Asia-Pacific-Typhoon-Risk-Analysis/blob/8c5a182627f07f37f6b25d10b70d221bdf5a98de/images/typhoon_heatmap.png)
+![image alt](https://github.com/kristineng/Asia-Pacific-Typhoon-Risk-Analysis/blob/8c5a182627f07f37f6b25d10b70d221bdf5a98de/images/typhoon_heatmap.png)
 
 The geographical distribution shows clear concentrations of tropical cyclone activity across the Western Pacific particularly around Vietnam, the Philippines, Taiwan, southern China and Japan.
 
