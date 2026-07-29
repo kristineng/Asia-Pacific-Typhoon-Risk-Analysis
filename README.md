@@ -4,6 +4,9 @@ An exploratory data analysis of tropical cyclone activity in the Asia Pacific us
 
 The project looks at where typhoons occur, how frequently they occur and how storm intensity has varied over time. The analysis is also designed as a small introduction to catastrophe risk analysis from an insurance perspective.
 
+## IMPORTANT NOTE!!!
+
+Since the Folium Maps cannot render on Github natively, you may view the complete Notebook with interavtive maps via [HERE](https://nbviewer.org/github/kristineng/Asia-Pacific-Typhoon-Risk-Analysis/blob/main/Typhoon_Analysis.ipynb)
 ## 📊 Highlights
 
 ### Where do typhoons occur most often?
