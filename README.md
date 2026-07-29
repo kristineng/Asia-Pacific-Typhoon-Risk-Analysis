@@ -8,7 +8,7 @@ The project looks at where typhoons occur, how frequently they occur and how sto
 
 ### Where do typhoons occur most often?
 
-![Typhoon Heatmap](images/typhoon_heatmap.png)
+![image alt]([images/typhoon_heatmap.png](https://github.com/kristineng/Asia-Pacific-Typhoon-Risk-Analysis/blob/8c5a182627f07f37f6b25d10b70d221bdf5a98de/images/typhoon_heatmap.png)
 
 The geographical distribution shows clear concentrations of tropical cyclone activity across the Western Pacific particularly around Vietnam, the Philippines, Taiwan, southern China and Japan.
 
@@ -36,14 +36,6 @@ The project covers:
 
 The analysis was performed using Python, pandas, matplotlib and Folium.
 
-## Data
-
-The analysis uses the **International Best Track Archive for Climate Stewardship (IBTrACS)** from NOAA's National Centers for Environmental Information.
-
-Dataset: IBTrACS Version 4r01 — Western Pacific subset.
-
-[NOAA IBTrACS](https://www.ncei.noaa.gov/products/international-best-track-archive)
-
 ## Tools
 
 - Python
@@ -52,10 +44,10 @@ Dataset: IBTrACS Version 4r01 — Western Pacific subset.
 - Folium
 - GIS (Geographic Information System)
 
-## Project Structure
+## Data
 
-```text
-data/        Raw data
-images/      Static visualizations
-output/      Interactive maps
-notebooks/   Analysis notebook
+The analysis uses the **International Best Track Archive for Climate Stewardship (IBTrACS)** from NOAA's National Centers for Environmental Information.
+
+Dataset: IBTrACS Version 4r01 — Western Pacific subset.
+
+[NOAA IBTrACS](https://www.ncei.noaa.gov/products/international-best-track-archive)
