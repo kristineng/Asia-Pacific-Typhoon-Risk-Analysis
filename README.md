@@ -46,6 +46,7 @@ The analysis was performed using Python, pandas, matplotlib and Folium.
 - matplotlib
 - Folium
 - GIS (Geographic Information System)
+- QGIS
 
 ## Data
 
